@@ -15,8 +15,8 @@
     <PackageTags>matrixconnect matrixsaude tm laboratorial protocolo matrix</PackageTags>
     <NeutralLanguage>pt-BR</NeutralLanguage>
     <PackageReleaseNotes>Ajustado o encode de leitura dos arquivos recebidos da TM</PackageReleaseNotes>
-    <AssemblyVersion>1.0.0.6</AssemblyVersion>
-    <FileVersion>1.0.0.6</FileVersion>
+    <AssemblyVersion>1.0.0.7</AssemblyVersion>
+    <FileVersion>1.0.0.7</FileVersion>
     <UserSecretsId>5944a8f6-ce8e-49ed-bb4c-d5a4814e3607</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
